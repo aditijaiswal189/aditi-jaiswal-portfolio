@@ -4,7 +4,7 @@ function ContactForm() {
     <div className="border-b-4 rounded-md items-center  border-violet-600 w-8 h-2 md:w-10 md:h-4"> 
      </div>
      <p className="text-center  text-wrap text-sm tracking-normal text-stone-800 font-medium p-3 m-2 md:text-lg md:font-semibold md:p-5 md:m-4 lg:text-xl">Feel free to Contact me by submitting the form below and I will get back to you as soon as possible</p>
-     <form className=" bg-stone-100 p-10 rounded-md w-9/12 mb-10 md:p-12 md:mb-12">
+     <form className=" bg-stone-100 sm:p-10 rounded-md w-9/12 mb-10 xs:p-6 md:p-12 md:mb-12">
       <label className="text-lg md:text-xl lg:text-2xl ">Name</label>
       <p>
 
