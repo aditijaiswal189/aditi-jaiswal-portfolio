@@ -5,7 +5,7 @@ function MySkills() {
       <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">HTML</button>
       <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">CSS</button>
       <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider col-span-2  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">Tailwind CSS</button>
-      <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">JavaScript</button>
+      <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider xs:py-2 xs:px-2  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">JavaScript</button>
       <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">GIT</button>
       <button className="bg-stone-300 py-3 px-5 rounded-md text-xs font-semibold text-stone-700 tracking-wider  md:py-4 md:px-6 md:text-sm  md:tracking-widest ">React.js</button>
      
